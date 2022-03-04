@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "g0Cif5LVqvB+iCCqFinwufiI4wiLcYtz83yR23M1GajDQDfYllYMuyFm66ttU6BEczprbtpbDOglafOS7O/mbA==",
+  "dgSpecHash": "jPA6X38K8YDtwq/u8nNZkdeaDmOQOBQlhy+mwx09zTsHCnt1FO3yrQbMyHdf/ZLbyTR049Us7Pv3tvi5hCTtqQ==",
   "success": true,
-  "projectFilePath": "E:\\TestCICD\\TestAppByShahid\\TestAppByShahid.csproj",
+  "projectFilePath": "E:\\TestCICD\\ShahidMehmood-purelogics\\TestCICD\\TestAppByShahid\\TestAppByShahid.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

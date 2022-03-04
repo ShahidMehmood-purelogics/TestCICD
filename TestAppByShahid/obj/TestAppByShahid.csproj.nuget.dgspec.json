@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\TestCICD\\TestAppByShahid\\TestAppByShahid.csproj": {}
+    "E:\\TestCICD\\ShahidMehmood-purelogics\\TestCICD\\TestAppByShahid\\TestAppByShahid.csproj": {}
   },
   "projects": {
-    "E:\\TestCICD\\TestAppByShahid\\TestAppByShahid.csproj": {
+    "E:\\TestCICD\\ShahidMehmood-purelogics\\TestCICD\\TestAppByShahid\\TestAppByShahid.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\TestCICD\\TestAppByShahid\\TestAppByShahid.csproj",
+        "projectUniqueName": "E:\\TestCICD\\ShahidMehmood-purelogics\\TestCICD\\TestAppByShahid\\TestAppByShahid.csproj",
         "projectName": "TestAppByShahid",
-        "projectPath": "E:\\TestCICD\\TestAppByShahid\\TestAppByShahid.csproj",
+        "projectPath": "E:\\TestCICD\\ShahidMehmood-purelogics\\TestCICD\\TestAppByShahid\\TestAppByShahid.csproj",
         "packagesPath": "C:\\Users\\PureLogics\\.nuget\\packages\\",
-        "outputPath": "E:\\TestCICD\\TestAppByShahid\\obj\\",
+        "outputPath": "E:\\TestCICD\\ShahidMehmood-purelogics\\TestCICD\\TestAppByShahid\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PureLogics\\AppData\\Roaming\\NuGet\\NuGet.Config",
